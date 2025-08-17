@@ -1,4 +1,4 @@
-## Hey there ! I'm Peyman
+## Hey there !
 
 Front-End developer with react js <br>
 Eager to learn more <br>
