@@ -5,7 +5,7 @@ Eager to learn more <br>
 Open to contribution opportunities <br>
 ***
 
-- 🔭 I use frequently: `.js` , `.jsx` , `.css` , `.html` , `redux`
+- 🔭 I frequently use: `.js` , `.jsx` , `.css` , `.html` , `redux`
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flatsquare&logo=react)
   - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flasquare&logo=html5&logoColor=white)
 - 🌱 I’m currently learning: `.rs` , `.c` , `.ts` , `next js` , `docker`
