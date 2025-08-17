@@ -1,6 +1,6 @@
 ## Hi , It's nice having you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Front-End developer with react js <br>
+Junior Front-End developer with react js <br>
 Eager to learn more <br>
 Open to contribution opportunities <br>
 ***
